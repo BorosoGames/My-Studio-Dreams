@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>The Home</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+	<h1>Home</h1>
+	<nav>
+		<ul>
+			<li><a href="paginas/extra.html">Extra</a></li>
+      <i><a href="https://www.roblox.com/games/11760924315/Benjas-Mod#!/about">Benja's Mod</i>
+			<li><a href="">Home</a></li>
+			<li><a href="paginas/news.html">News</a></li>
+			<li><a href="paginas/games.html">Games</a></li>
+		<ul>
+	</nav>
+	<div class="contenido">
+		<div class="articulos">
+			<div class="secciones">
+				<div>
+					 <p>Nothing</p>
+				</div>
+				<div><img src="img/benja maid limpiando.png"></div>
+			</div>
+		</div>
+		</div>
+	</div>
+
+</body>
+</html>
